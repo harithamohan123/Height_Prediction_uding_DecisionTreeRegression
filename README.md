@@ -1,4 +1,4 @@
-# Height_Prediction_uding_SVR
+# Height_Prediction_uding_DecisionTreeRegression
 ______________________________
 In this project, we use support vetcor regression to predict the  height.                                    
 
